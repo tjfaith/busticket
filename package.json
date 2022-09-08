@@ -1,0 +1,43 @@
+{
+  "name": "booking-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-react-calendars": "^20.2.45",
+    "@syncfusion/ej2-react-charts": "^19.4.50",
+    "@syncfusion/ej2-react-dropdowns": "^19.4.52",
+    "@syncfusion/ej2-react-grids": "^20.2.45",
+    "@syncfusion/ej2-react-inputs": "^19.4.52",
+    "@syncfusion/ej2-react-kanban": "^19.4.48",
+    "@syncfusion/ej2-react-popups": "^19.4.52",
+    "@syncfusion/ej2-react-richtexteditor": "^19.4.50",
+    "@syncfusion/ej2-react-schedule": "^19.4.50",
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.3.1",
+    "react-paystack": "^4.0.1",
+    "react-router-dom": "^6.2.1",
+    "react-simple-snackbar": "^1.1.11",
+    "react-slick": "^0.28.1",
+    "react-webcam": "^7.0.1",
+    "sass": "^1.54.6",
+    "slick-carousel": "^1.8.1",
+    "sweetalert": "^2.1.2",
+    "tw-elements": "^1.0.0-alpha12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.0.1",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "sass": "^1.54.6",
+    "tailwindcss": "^3.0.19",
+    "vite": "^3.0.7"
+  }
+}
