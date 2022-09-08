@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import App from './App'; 
 import Admin from './admin/Admin'; 
-import AdminSignup from './admin/pages/Signup';
+import AdminSignup from './admin/pages/signup';
 import AdminLogin from './admin/pages/login';
 
 import { ContextProvider } from './admin/contexts/ContextProvider';
